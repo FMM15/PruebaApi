@@ -1,7 +1,5 @@
 <?php 
-/*require("../includes/session.php");
-require_once("../includes/conexion_db.php");
-require_once("../includes/functions.php");*/
+
 
 if(isset($_POST["pagRef"])){
 	//Guardamos la pagina de referencia en la variable 
