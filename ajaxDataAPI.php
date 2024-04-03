@@ -1,6 +1,6 @@
 <?php 
 
-
+#CAMBIOS
 if(isset($_POST["pagRef"])){
 	//Guardamos la pagina de referencia en la variable 
 	$paginaRefe = $_POST["pagRef"];
